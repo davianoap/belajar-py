@@ -21,3 +21,5 @@ print(type(age))
 
 salary = 5000000.0
 print(type(salary))
+
+
